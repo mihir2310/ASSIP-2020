@@ -7,4 +7,5 @@
 - Worked under Dr. Vasiliki Ikonomidou as a part of the Aspiring Scientists' Summer Internship Program (ASSIP '20).
 - Used Support-Vector Machine classifiers in Machine-Learning models to detect Epileptic-seizures based on Heart-Rate Variability trends in Medical (ECG) data gathered from the Physiobank Automated Teller Machine.
 - Pending publication in "Journal of Student-Scientists’" research journal.
-- [![2020 ASSIP Symposium Presentation](https://www.youtube.com/watch?v=a57z5tnOMuc)
+- <a href="https://www.youtube.com/watch?v=a57z5tnOMuc" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
